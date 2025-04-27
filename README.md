@@ -1,6 +1,6 @@
 # Japanese Patch for 428 Shibuya Scramble
 
-This is a bsdiff patch will change the language of the Steam version of [428 Shibuya Scramble](https://store.steampowered.com/app/648580/428_Shibuya_Scramble/) from English to Japanese.
+This is a bsdiff patch that will change the language of the Steam version of [428 Shibuya Scramble](https://store.steampowered.com/app/648580/428_Shibuya_Scramble/) from English to Japanese.
 
 > Note: The `patch.exe` file is just the 32-bit `bspatch.exe` file from [this release](https://github.com/reitowo/bsdiff-win/releases/tag/v4.3) renamed to `patch.exe` so all the patch files stay together in the game's directory.
 

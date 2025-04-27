@@ -30,9 +30,9 @@ if not %current_source_md5%==%source_md5% (
     echo.
     echo %source% did not have the expected contents. Unable to patch the executable file.
     echo.
-    echo. In the game's properties in Steam, on the "Installed Files" tab, click "Verify integrity of game files". Then try running the patch again.
+    echo In the game's properties in Steam, on the "Installed Files" tab, click "Verify integrity of game files". Then try running the patch again.
     echo.
-    echo. If it still fails after doing this, the game may have been updated and this patch will no longer work.
+    echo If it still fails after doing this, please open an issue on GitHub as the game may have been updated and this patch will no longer work.
     echo.
     pause
     exit /b
